@@ -1,6 +1,7 @@
-## Heyo!!!
+# A  lil bit about myself...
 
-My name is Franchesca E. Ramirez and I'm currently taking Computer Science at New Era University.
+My name is Franchesca E. Ramirez and I'm currently an undergraduate studying Computer Science at New Era University.
+
 
 ## Education
 
