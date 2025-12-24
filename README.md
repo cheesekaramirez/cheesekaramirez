@@ -16,6 +16,8 @@ My name is Franchesca E. Ramirez. I'm an aspiring programmer and artist, current
 
 [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A6694CA843F5AF8F8812D8E7C9EB99F1D2C41AF854F8AB01676DC3E937D2F6E)
 
+[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CCFFCA32E2EE52B38A227378A55236BB8B204A1B5F522C8A8F2DF6861F3B773B)
+
 ## Skillsets
 - Programming
 - Illustration
