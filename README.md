@@ -2,12 +2,25 @@
 
 My name is Franchesca E. Ramirez. I'm an aspiring programmer and artist, currently an undergraduate studying Computer Science at New Era University.
 
+## Tech Stack
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e56415c7-a839-4d9c-803b-af231d91b369" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/792272b0-0ab3-4fd4-914f-afd34974f0f2" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/153b6dcb-0ad6-4bd8-b9b9-162c01ba90f2" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/811a9a19-fd9b-429d-859b-e540aa076906" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3ffb16b8-8d74-4fb5-94c8-64662a3e89e0" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ad7782ee-1888-4e50-ab03-c6152defc21e" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/206f6e9b-0486-4ddd-9e2f-13505e42907c" />
 
+## Skillsets
+- Programming
+- Illustration
+  
 ## Education
 
 |Level Attended| Name of School | Year Graduated|
 |--------------|----------------|----------------|
 |College| New Era University |Ongoing|
+
 
 ## Certifications
 |Certificates| Valid Until |
@@ -22,6 +35,3 @@ My name is Franchesca E. Ramirez. I'm an aspiring programmer and artist, current
 |--------------|----------------|
 |Data Driven Facilities Management: The Future of Smart Spaces|March 17, 2025|
 
-## Skillsets
-- Programming
-- Illustration
