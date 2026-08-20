@@ -31,4 +31,4 @@ My name is Franchesca E. Ramirez. I'm an aspiring programmer and artist, current
 
 ## GitHub Stats
 
-[![cheesekaramirez's GitHub Stats](https://github-stats-extended.vercel.app/api?username=cheesekaramirez)](https://github.com/stats-organization/github-stats-extended)
+[![cheesekaramirez's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=cheesekaramirez)](https://github.com/stats-organization/github-stats-extended)
