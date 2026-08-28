@@ -31,6 +31,7 @@ My name is Franchesca E. Ramirez. I'm an aspiring programmer and artist, current
 |Seminar Attended| Date | 
 |--------------|----------------|
 |Data Driven Facilities Management: The Future of Smart Spaces|March 17, 2025|
+|SENPAI 3.0|February 6, 2026|
 
 ## GitHub Stats
 
