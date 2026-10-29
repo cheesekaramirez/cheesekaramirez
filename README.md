@@ -35,6 +35,7 @@ I like experimenting around with Linux and maybe a bit of homelabbing with older
 |[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D4F8EC3FA412DEB46E767A4F0A9E4C8C78A9C61F33351C2E2909E009E9A816B0)|2027|
 |[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A6694CA843F5AF8F8812D8E7C9EB99F1D2C41AF854F8AB01676DC3E937D2F6E)|2027|
 |[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CCFFCA32E2EE52B38A227378A55236BB8B204A1B5F522C8A8F2DF6861F3B773B)|2027|
+|[Introduction To GitHub Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/db932a95f54277925b223f3c59ef4a015afd4d0a?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)|-|
 
 ## Seminars
 |Seminar Attended| Date | 
